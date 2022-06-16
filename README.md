@@ -1,12 +1,15 @@
 #Whitelist Dapps
 > You are launching your NFT collection named Crypto Devs. You want to give your early supporters access to a whitelist for your collection, so here you are creating a whitelist dapp for Crypto Devs
 
+## Live Link
+[Click me](https://whitelist-dapp-six-beta.vercel.app)
+
 ## Built with
 
 1. Frontend
-  - nextjs
-  - ethers
-  - web3modal
+    - nextjs
+    - ethers
+    - web3modal
 
 2. Backend:
     - solidity
@@ -20,15 +23,18 @@ This repo has two main directories. `backend` which holds the codes for the smar
 
 First, run the development server for the frontend:
 
-1.```bash
-  cd frontend
-  ```
+1.
+```bash
+cd frontend
+```
 
-2. ```bash
+2.
+```bash
 npm install
 ```
 
-2. ```bash
+3.
+```bash
 npm run dev
 # or
 yarn dev
